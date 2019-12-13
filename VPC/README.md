@@ -78,7 +78,7 @@ Use (cidr.xyz)[https://cidr.xyz/] to figure out subnet ranges within a VPC
 
 ## ALB
 
-- You need at least 2 public subnets in order to deeply and application load balancer
+- You need at least 2 public subnets in order to deploy an application load balancer
 
 ## VPC Flow Logs
 
