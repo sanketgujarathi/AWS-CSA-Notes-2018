@@ -61,7 +61,7 @@ Use (cidr.xyz)[https://cidr.xyz/] to figure out subnet ranges within a VPC
 - Not associated with security groups
 - Automatically assigned public IP
 - Must update root tables and point them to NAT Gateway
-- Having one NAT Gateway in one AZ is not good enough, must me redundant in multiple AZs
+- Having one NAT Gateway in one AZ is not good enough, must be configured each AZs for High Availability
 - No need to disable Source/Destination Checks
 - More Secure than NAT Instance
 
